@@ -1,1 +1,1 @@
-# NN-based-lifting-steps-for-improved-fully-scalable-lossy-image-compression-in-JPEG2000
+# Hybrid-achitecture
